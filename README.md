@@ -3,7 +3,7 @@ Projeto feito com o professor de fisica Jaime e Wilson do Instituto Federal, fei
 Sendo usado 3 metodos de resolução: metodo de retangulos; metodo dos trapezios; regra de simpson 1/3.
 
 Foi usado o IDE de python do Jupyter, do pacote Anaconda. Usei da biblioteca matemática NumPy e do MatPlotLib para a geração dos gráficos no Script
-O codigo calcula a área de funções geradas no codigo usando dos 3 metodos citados.
+O codigo calcula a área de funções geradas no codigo usando de Três metodos citados.
 
 Metodo dos Retangulos:
   Primeiro tipo de calculo usado no script.
