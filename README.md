@@ -1,6 +1,8 @@
 # Integrate_Numeric
-Projeto em python feito com o professor de fisica Jaime e Wilson do Instituto Federal, feito para resolução de problemas matematicos usando Integral.
+Projeto feito com o professor de fisica Jaime e Wilson do Instituto Federal, feito para resolução de problemas matematicos usando Integral.
 Sendo usado 3 metodos de resolução: metodo de retangulos; metodo dos trapezios; regra de simpson 1/3.
+
+Foi usado o IDE de python do Jupyter, do pacote Anaconda. Usei da biblioteca matemática NumPy e do MatPlotLib para a geração dos gráficos no Script
 O codigo calcula a área de funções geradas no codigo usando dos 3 metodos citados.
 
 Metodo dos Retangulos:
